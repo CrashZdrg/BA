@@ -1,0 +1,1 @@
+add_compile_definitions(Z_SOLO NO_GZIP BUILDFIXED ZLIB_CONST)
